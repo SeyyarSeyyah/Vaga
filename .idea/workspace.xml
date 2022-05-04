@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad495797-373b-4f29-8249-a70d084c97bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eRpa8nSTFOzhI9LHVLimIeFqHb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\src\Flutter_projects\vaga\assets" />
+      <recent name="C:\src\Flutter_projects\vaga\lib\screens" />
+      <recent name="C:\src\Flutter_projects\vaga\lib" />
+      <recent name="C:\src\Flutter_projects\vaga\lib\assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\src\Flutter_projects\vaga\assets" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad495797-373b-4f29-8249-a70d084c97bf" name="Default Changelist" comment="" />
+      <created>1594294320629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594294320629</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="91" key="#Intentions" timestamp="1596549610394">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#Intentions/0.0.1536.864@0.0.1536.864" timestamp="1596549610394" />
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597838485811">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1597838485811" />
+    <state x="539" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596638344443">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="539" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1596638344443" />
+    <state x="190" y="151" key="#com.intellij.ide.util.MemberChooser" timestamp="1598525857590">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="190" y="151" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1598525857590" />
+    <state x="498" y="222" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1597223986577">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="498" y="222" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1597223986577" />
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598528701594">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1598528701594" />
+    <state x="624" y="198" key="AndroidProcessChooserDialog" timestamp="1598031109695">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="624" y="198" key="AndroidProcessChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1598031109695" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1598524701893">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1598524701893" />
+    <state width="1491" height="232" key="GridCell.Tab.0.bottom" timestamp="1598777555228">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="232" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1598777555228" />
+    <state width="1491" height="232" key="GridCell.Tab.0.center" timestamp="1598777555228">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="232" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1598777555228" />
+    <state width="1491" height="232" key="GridCell.Tab.0.left" timestamp="1598777555228">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="232" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1598777555228" />
+    <state width="1491" height="232" key="GridCell.Tab.0.right" timestamp="1598777555228">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="232" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1598777555228" />
+    <state x="100" y="100" width="1336" height="656" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1598720149709">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="100" y="100" width="1336" height="656" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.864@0.0.1536.864" timestamp="1598720149709" />
+    <state x="689" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1598783812036">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="689" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1598783812036" />
+    <state x="336" y="168" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598518747068">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="336" y="168" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.864@0.0.1536.864" timestamp="1598518747068" />
+    <state x="93" y="93" width="1350" height="678" key="dock-window-1" timestamp="1598268132497">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" key="dock-window-1/0.0.1536.864@0.0.1536.864" timestamp="1598268132497" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1598730987487">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1598730987487" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1598725800562">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1598725800562" />
+  </component>
+</project>
